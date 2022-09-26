@@ -38,3 +38,7 @@ Per a que aquesta carpeta només pot tindre accés el administrador, haurem de f
 En el meu cas com que sóc el administrador que crear la carpeta no cal ficar la persona que té accés a la carpeta.
 Ara tocar crear la carpeta de DOCUMENTS que tindrà accés d’editar el administrador i accés de lectura el usuari.
 
+![](carpetabackup.png)
+
+Ara ens tocar posar els permisos a la carpeta, en aquest cas el usuari tindrà el acces de lectura i el admin d’editar.
+
