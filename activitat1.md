@@ -20,3 +20,21 @@ En canvi si utilitzem google drive, al poder-ho guardar al núvol és molt més 
 
 - Hi han dos tipus de pla per compra les 2 TB que necessitem, un és mensual i l’altre es anual. Aquesta és la diferència entre elles. La diferencia entre aquests dos plans es que t’estalvies uns 19,98€ anuals.
 
+![](taulapreus.png)
+
+### Guía de creació de l’usuari i administrador
+
+Administrador: Roberto(rpohrib@iesebre.com)
+Usuari: Narcís(nlleixa@iesebre.com)
+
+Primer crearem una carpeta que és digue BACKUP i que només tindrà acces el administrador.
+
+![](carpetabackup.png)
+
+Per a que aquesta carpeta només pot tindre accés el administrador, haurem de fer clic dret a la carpeta i després ens dirigim a “Mostra els detalls”. Una vegada dins fiquem el correu del administrador per a que només ell tingui accés.
+
+![](propietbackup.png)
+
+En el meu cas com que sóc el administrador que crear la carpeta no cal ficar la persona que té accés a la carpeta.
+Ara tocar crear la carpeta de DOCUMENTS que tindrà accés d’editar el administrador i accés de lectura el usuari.
+
