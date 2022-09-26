@@ -42,3 +42,32 @@ Ara tocar crear la carpeta de DOCUMENTS que tindrà accés d’editar el adminis
 
 Ara ens tocar posar els permisos a la carpeta, en aquest cas el usuari tindrà el acces de lectura i el admin d’editar.
 
+![](seleccio.png)
+
+### Creació accés directe de la carpetes “BACKUP” i “DOCUMENTS”a l’escriptori dels usuaris i Administrador i com accedir a aquest
+
+***Administrador***
+
+El primer que farem és anar al notre drive del ubuntu, que per entrar és tan simple com entra a una carpeta normal i clica damunt del nostre correu.
+
+![](Selecció_001.png)
+
+Ara ens aparèixer unes carpetes i haurem de clica a “la meva unitat”
+
+![](Selecció_002.png)
+
+Una vegada a la nostra unitat haurem de veure les carpetes “BACKUP” i “DOCUMENTS”.
+
+![](Selecció_003.png)
+
+Ara per fer crear adreces directes a l’escriptori de les dos carpetes haurem de seleccionar la carpeta i arrastrar-ho baixa a l’esquerra que ens apareixerà una opció per posar-ho a accés directe.
+
+![](Selecció_004.png)
+
+Si ho hem fet bé ens hauria de apareixer així.
+
+![](Selecció_005.png)
+
+
+
+
