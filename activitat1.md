@@ -70,6 +70,35 @@ Si ho hem fet bé ens hauria de apareixer així.
 
 ***Usuari***
 
+El primer que tindrem que haver fet és vincular el nostre correu electrònic amb el nostre ubuntu, un cop fet als nostres fitxers ens apareixerà un accés al nostre google drive com aquest:
+
+![](Selecció_1.png)
+
+Farem doble clic sobre aquest i cercarem la carpeta que ens ha compartit l’administrador. En aquest cas tinc que buscar la carpeta “DOCUMENTS”.
+
+![](Selecció_2.png)
+
+Un cop trobada hem d’arrastrar-la a la part inferior esquerra de la nostra pantalla d’aquesta
+forma:
+
+![](Selecció_3.png)
+
+#### Exemples d’ús de fer un backup per part de l’administrador/a
+
+![](Selecció_4.png)
+
+#### Exemples d’ús de consultar un document per part de l’usuari/a
+
+Un cop fet això ja ens apareixerà i podrem accedir a aquesta de forma fàcil i ràpida.
+
+![](Selecció_5.png)
+
+#### Comproveu si un usuari/a pot eliminar sense voler algun document
+
+![](Selecció_6.png)
+
+
+
 
 
 
